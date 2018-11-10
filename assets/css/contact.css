@@ -1,0 +1,45 @@
+body{
+	color:#000;
+    
+    
+    background-size: cover; 
+    font-family: Andale Mono,AndaleMono,monospace; 
+    font-size: 20px;
+
+}
+
+h1 {
+  font-size: 40px;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 7px;
+  color: black;
+  font-family: helvetica;
+  text-transform: uppercase;
+}
+
+.intro {
+  text-align: left;
+  margin-top: 6px;
+  margin-left:8px;
+  font-size: 15px;
+  position: 
+}
+
+.links {
+  font-size: 10px;
+  text-align: left;
+  margin-top: 40px;
+  text-decoration: none;
+  font-family: helvetica;
+  margin-left: 7px;
+}
+
+a:link {
+  text-decoration: none;
+
+/*navigation*/
+
+
+   
+}
