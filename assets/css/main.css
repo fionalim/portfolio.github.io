@@ -8,7 +8,7 @@ body{
 
 }
 
-h1 {
+.titlename {
   font-size: 40px;
   text-align: left;
   margin-top: 20px;
@@ -27,12 +27,12 @@ h1 {
 }
 
 .links {
-  font-size: 15px;
-  text-align: left;
-  margin-top: 40px;
+   font-size: 15px;
+  text-align: right;
+  margin-top: -100px;
   text-decoration: none;
   font-family: helvetica;
-  margin-left: 7px;
+  margin-left:
 }
 
 a:link {
